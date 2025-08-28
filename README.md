@@ -3,12 +3,10 @@
 <!--
 **mcallisters/mcallisters** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a data scientist exploring new ways to analyze data leveraging classic machine learning models and evolving AI models.
-
 ## What I Do 💼
-- 📊 Customer and Scientific-based data analysis 
+- 📊 Customer-based data analysis as well as bioinformatics
 - 🔍 Unlock actionable insights from complex datasets
-- 🤖 Enhance business processes using LLM models
+- 🤖 Enhance business processes using ML, including LLM models
 
 ## Tech Stack 🛠️
 - 🐍 **Python**
