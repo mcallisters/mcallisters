@@ -3,8 +3,6 @@
 <!--
 **mcallisters/mcallisters** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-## About Me 🔬
 I am a data scientist exploring new ways to analyze data leveraging classic machine learning models and evolving AI models.
 
 ## What I Do 💼
