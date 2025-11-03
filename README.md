@@ -9,7 +9,7 @@
 - Enhance business processes using ML, including LLM models
 
 ## Tech Stack
-- **Python**,  **R**,  **SQL**  **Git**,  **Tableau**
+- **Python**,  **R**,  **SQL**,  **Git**,  **Tableau**
 
 ## Connect With Me
 **Email:** sean.david.mcallister@gmail.com
