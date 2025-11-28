@@ -9,7 +9,7 @@
 - Enhance business processes using ML, including LLM models (AI agents & GenAI)
 
 ## Tech Stack
-- **Python**,  **R**,  **SQL**,  **Git**,  **Tableau**
+- **Python**,  **R**,  **SQL**,  **Git**,  **Tableau**, **React**, **Docker**
 
 ## Connect With Me
 **Email:** sean.david.mcallister@gmail.com
